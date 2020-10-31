@@ -28,7 +28,11 @@
 </div>
 </br>
 
-:chart_with_upwards_trend: [graph](https://github.com/anuraghazra/github-readme-stats)
+##
+
+**Icons and graphics repos** :star:
+
 :accept: [Icons](https://github.com/devicons)
+:chart_with_upwards_trend: [graph](https://github.com/anuraghazra/github-readme-stats)
 
 ----
