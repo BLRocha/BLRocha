@@ -2,7 +2,6 @@
 <h2 align="center">Hello 🖖, Internet Travelers.</h2>
 <h5 align="center">hue hue or not hue hue</h5>
 <h4>___👋_ I'm Leandro Rocha</h3>
-<br>
 
 ##
 
@@ -15,7 +14,7 @@
 ##
 <div align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=BLRocha&show_icons=true&theme=blueberry&count_private=true">
-<img width="250" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLRocha&theme=blueberry"><br>
+<img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLRocha&theme=blueberry"><br>
 
 <p align="center">
     <br>
