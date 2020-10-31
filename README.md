@@ -13,8 +13,8 @@
 
 ##
 <div align="center">
-<img width="420" align="right" src="https://github-readme-stats.vercel.app/api?username=BLRocha&show_icons=true&theme=blueberry&count_private=true">
-<img width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLRocha&theme=blueberry"><br>
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=BLRocha&show_icons=true&theme=blueberry&count_private=true">
+<img width="270" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLRocha&theme=blueberry"><br>
 
 <p align="center">
     <br>
