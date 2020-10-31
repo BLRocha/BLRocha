@@ -13,7 +13,7 @@
 - :man_technologist: All of my projects are available at [Leandro](https://github.com/BLRocha/).
 
 ##
-<div>
+<div align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=BLRocha&show_icons=true&theme=blueberry&count_private=true">
 <img width="250" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLRocha&theme=blueberry"><br>
 
