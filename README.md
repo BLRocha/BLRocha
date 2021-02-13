@@ -10,6 +10,7 @@
 - :speech_balloon: Ask me about **javascript, python**
 - :mailbox: Reach me at leandrorocha.bezerra@gmail.com
 - :man_technologist: All of my projects are available at [Leandro](https://github.com/BLRocha/).
+- :syringe: My profile at [StackOverFlow](https://stackoverflow.com/users/9887052/leandro-rocha)
 
 ##
 <div align="center">
