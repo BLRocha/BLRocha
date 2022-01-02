@@ -5,8 +5,8 @@
 
 ##
 
-- :telescope: I’m currently working on [extreme_go_horse_js](https://github.com/BLRocha/extreme_go_horse_js)
-- :thinking: I’m looking for help with [bot-twitch-python](https://github.com/casadodev/bot-twitch-python)
+- :telescope: I’m currently working on [smbadmin](https://github.com/BLRocha/smbadmin)
+- :thinking: I’m looking for help with [#...#](https://github.com/#)
 - :speech_balloon: Ask me about **javascript, python**
 - :mailbox: Reach me at leandrorocha.bezerra@gmail.com
 - :man_technologist: All of my projects are available at [Leandro](https://github.com/BLRocha/).
