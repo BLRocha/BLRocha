@@ -7,7 +7,7 @@
 
 - :telescope: I’m currently working on [smbadmin](https://github.com/BLRocha/smbadmin)
 - :thinking: I’m looking for help with [#...#](https://github.com/#)
-- :speech_balloon: Ask me about **javascript, python**
+- :speech_balloon: Ask me about **javascript, typescript, express, mysql**
 - :mailbox: Reach me at leandrorocha.bezerra@gmail.com
 - :man_technologist: All of my projects are available at [Leandro](https://github.com/BLRocha/).
 - :syringe: My profile at [StackOverFlow](https://stackoverflow.com/users/9887052/leandro-rocha)
